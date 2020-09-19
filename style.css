@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #c9d1c8;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #04202c;
+    transition: 0.35s linear;
+}
+
+body{
+    min-width: 1064px;
+    padding: 0 15px;    
+    background-color: #304040;
+}
+
+#main{
+    margin: auto;
+    max-width: 1024px;
+    height: 100vh;
+    display: flex;
+    
+}
+
+.title{
+    font-size: 3em;
+}
+
+.leftContainer{
+    box-shadow: -8px 0 5px -5px rgba(0, 0, 0, .5);
+    width: 30%;
+    height: 100vh;
+    background-color: #04202c;
+    color: #c9d1c8;
+    font-size: 25px;
+    text-align: center;
+}
+
+.photo{
+    box-shadow: -5px 0 5px -5px rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 48vh;
+}
+
+.checkBoxLeft{
+    padding-top: 20%;
+
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    
+}
+.content{
+    padding-bottom: 10%;
+}
+
+.AboutMe{
+    font-size: 0.7em;
+}
+
+.rightContainer{
+    width: 70%;
+    height: 100vh;
+    
+}
+
+.Box-top{
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 1),
+    -23px 0 20px -23px rgba(0, 0, 0, .8),
+    23px 0 20px -23px rgba(0, 0, 0, .8),
+    0 0 40px rgba(0, 0, 0, .1) inset;
+    align-items: center;
+    width: 100%;
+    height: 20%;
+    background-color: #5b7065;
+    color: #c9d1c8;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
+
+.name{
+    padding: 4%;
+}
+
+.sourse{
+    text-align: center;
+    width: 20em;
+    font-size: 1.5em;
+    margin: 0 auto;
+}
+
+.Git{
+    margin-right: 20px;
+}
+
+.Box-botton{
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 1),
+    -23px 0 20px -23px rgba(0, 0, 0, .8),
+    23px 0 20px -23px rgba(0, 0, 0, .8),
+    0 0 40px rgba(0, 0, 0, .1) inset;
+    width: 100%;
+    height: 80%;
+    background-color: #c9d1c8;
+    font-size: 40px;
+    color: #04202c;
+}
+
+h5{
+    font-size: 40px;
+    padding-bottom: 5px;
+}
+
+.checkBox{
+    padding-top: 10%;
+    width: 80%;
+    height: 80%;
+    margin: auto;
+}
+
+.skillTransfer{
+    padding-left: 28%;
+    font-size: 0.5em;
+}
+
+.education, .english{
+    padding-bottom: 30px;
+    font-size: 0.5em;
+}
+
+.skillAndCode{
+
+    display: flex;
+}
+
+.skills{
+    margin-right: 30%;
+    margin-bottom: 5%;
+}
+
+code{
+    font-size: 0.5em;
+}
