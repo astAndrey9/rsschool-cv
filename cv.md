@@ -19,3 +19,17 @@ I would like to become one of the best in web development, so I devote my free t
  - CSS
  - JavaScript
  - Git
+
+## Code examples
+
+```javascript
+function multiply(a, b){
+  return a * b
+}
+```
+
+## Education
+Graduated from Saratov state University named after Chernyshevsky in 2020(faculty of computer science and information technology, direction - computer science and engineering). This year I entered the SSU(magistrate, computer science and engineering)
+
+## English
+A2 Pre-Intermediate
